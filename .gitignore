@@ -1,4 +1,10 @@
 .idea/
-baseball_images/
+Data/baseball/
+Data/hockey/
+Data/
 hockey_images/
+baseball_images/
+video/
 test.py
+file_test.mp4
+

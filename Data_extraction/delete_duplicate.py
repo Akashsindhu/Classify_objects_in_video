@@ -28,7 +28,7 @@ if __name__ == "__main__":
     2. load the image from path and find the dhash
     3. store the hash and filepath in dict
     """
-    file_paths = list(paths.list_images("C:/Users/akash/Downloads/keras tips and tricks/classify objects in video/hockey_images/"))
+    file_paths = list(paths.list_images("C:/Users/akash/Downloads/keras tips and tricks/classify objects in video/Data/hockey_images/"))
     dictionary = {}
     # print(file_paths)
 
