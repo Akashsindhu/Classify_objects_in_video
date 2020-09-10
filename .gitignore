@@ -5,6 +5,7 @@ Data/hockey/
 Data/
 hockey_images/
 baseball_images/
+Model/
 video/
 test.py
 file_test.mp4
