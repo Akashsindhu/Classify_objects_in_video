@@ -6,8 +6,6 @@ Data/
 hockey_images/
 baseball_images/
 Model/
-Model/variables/variables.data-00000-of-00001
-Model/variables/variables.index
 video/
 test.py
 file_test.mp4
